@@ -1,0 +1,25 @@
+
+# int()
+print("----- INTEGER -----")
+print(int(123))
+print(int(25.326))
+print(int(-25.326))
+
+# str()
+print("----- STRING -----")
+print(str(25))
+print(str(-98))
+print(str(65.1)[1])
+
+# float()
+print("----- FLOAT -----")
+print(float(-56))
+print(float(654.2466546))
+
+# bool()
+print("----- BOOLEAN -----")
+print(bool(""))
+print(bool("0"))
+print(bool(None))
+print(bool(" "))
+print(bool(0))
